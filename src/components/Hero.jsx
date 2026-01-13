@@ -51,9 +51,10 @@ const Hero = () => {
                         </div>
                     </div>
                 </div>
-                <div style={{ display: 'flex', gap: '1.5rem', justifyContent: 'center', marginBottom: '3rem', marginTop: '2rem' }}>
+                <div style={{ display: 'flex', gap: '1.5rem', justifyContent: 'center', marginBottom: '3rem', marginTop: '2rem', flexWrap: 'wrap' }}>
                     <a href="#projects" className="btn">Check out my work</a>
                     <a href="#contact" className="btn btn-outline">Contact Me</a>
+                    <a href="/Bimsara_Nawarathna_CV.pdf" download className="btn">Download Resume</a>
                 </div>
 
                 <div style={{ display: 'flex', gap: '2rem', justifyContent: 'center', fontSize: '1.5rem' }}>
