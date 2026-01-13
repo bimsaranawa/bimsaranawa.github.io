@@ -178,6 +178,15 @@ h2 span {
   scroll-snap-align: center;
 }
 
+@media (min-width: 769px) {
+  .slider .glass-card {
+    flex: 0 0 380px;
+    width: 380px;
+    max-width: 380px;
+    min-width: 380px;
+  }
+}
+
 @media (max-width: 768px) {
   .slider {
     max-width: 100%;

@@ -2,27 +2,33 @@ const Achievements = () => {
     const achievements = [
         {
             id: 1,
-            title: "Hackathon Winner 2023",
-            organization: "Global Tech Summit",
-            image: "https://via.placeholder.com/400x250"
+            title: "Champions of VRCade 2.0 Competition 2024",
+            organization: "IEEE Student Branch, University of Moratuwa",
+            image: "/Champions_VRCade.jpeg"
         },
         {
             id: 2,
-            title: "AWS Certified Solution Architect",
-            organization: "Amazon Web Services",
-            image: "https://via.placeholder.com/400x250"
+            title: "1st Runners Up of Idealize 2024",
+            organization: "AIESEC in University of Moratuwa",
+            image: "/Runnersup_Idealize.jpeg"
         },
         {
             id: 3,
-            title: "Best Open Source Contributor",
-            organization: "GitHub Community",
-            image: "https://via.placeholder.com/400x250"
+            title: "Conceptualist Award of Idealize 2024",
+            organization: "AIESEC in University of Moratuwa",
+            image: "/Conceptualist_Idealize.jpeg"
         },
         {
             id: 4,
-            title: "Google Cloud Certified",
-            organization: "Google",
-            image: "https://via.placeholder.com/400x250"
+            title: "Finalist of Brainstorm 2024",
+            organization: "IEEE EMBS University of Moratuwa",
+            image: "/Finalist_Brainstorm.jpeg"
+        },
+        {
+            id: 5,
+            title: "Semifinalist of Robot Battle Competition 2024",
+            organization: "University of Uwa Wellassa",
+            image: "Semifinalist_Robot.jpeg"
         }
     ];
 
